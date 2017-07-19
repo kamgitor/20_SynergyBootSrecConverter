@@ -1,0 +1,5 @@
+k:\ProjektyC#\20_SynergyBootSrecConverter\SynergyBootSrecConverter\bin\Debug\SynergyBootSrecConverter.exe
+k:\ProjektyC#\20_SynergyBootSrecConverter\SynergyBootSrecConverter\bin\Debug\SynergyBootSrecConverter.pdb
+k:\ProjektyC#\20_SynergyBootSrecConverter\SynergyBootSrecConverter\obj\Debug\ResolveAssemblyReference.cache
+k:\ProjektyC#\20_SynergyBootSrecConverter\SynergyBootSrecConverter\obj\Debug\SynergyBootSrecConverter.exe
+k:\ProjektyC#\20_SynergyBootSrecConverter\SynergyBootSrecConverter\obj\Debug\SynergyBootSrecConverter.pdb
