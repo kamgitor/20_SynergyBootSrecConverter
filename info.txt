@@ -1,0 +1,1 @@
+Do wycinania z srec'a jednej linijki ktora wywala konwerter synergy pythonowy
